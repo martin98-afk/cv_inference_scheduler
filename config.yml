@@ -1,0 +1,28 @@
+http:
+  host: 0.0.0.0
+  port: 9199
+  timeout-keep-alive: 30
+
+root-path: /app
+
+model-list:
+  lifting_hook:
+    model_name: 吊钩识别
+    model_task: keypoint_detection
+    model_path: lifting_hook_best.onnx
+    device: 2
+    model_config: lifting_hook.yaml
+
+  object_detection:
+    model_name: 目标检测
+    model_task: object_detection
+    model_path: yolov8s.onnx
+    device: 2
+    model_config: coco.yaml
+
+  semantic_segmentation:
+    model_name: 语义分割
+    model_task: semantic_segmentation
+    model_path: yolov8s-seg.onnx
+    device: cpu
+    model_config: coco.yaml

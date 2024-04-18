@@ -1,0 +1,1 @@
+docker build -t cv-inference:v1.0 .

@@ -1,11 +1,4 @@
-"""
-@author: mading
-@license: (C) Copyright: LUCULENT Corporation Limited.
-@contact: mading@luculent.net
-@file: video_stream_manager.py
-@time: 2024/4/18 11:25
-@desc: 
-"""
+
 import json
 import time
 from threading import Thread

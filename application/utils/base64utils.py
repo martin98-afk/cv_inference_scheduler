@@ -1,11 +1,3 @@
-"""
-@author: mading
-@license: (C) Copyright: LUCULENT Corporation Limited.
-@contact: mading@luculent.net
-@file: base64utils.py
-@time: 2023/11/3 11:35
-@desc: 
-"""
 import base64
 import cv2
 import numpy as np

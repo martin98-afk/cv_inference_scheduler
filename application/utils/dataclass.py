@@ -1,11 +1,3 @@
-"""
-@author: mading
-@license: (C) Copyright: LUCULENT Corporation Limited.
-@contact: mading@luculent.net
-@file: dataclass.py
-@time: 2023/11/6 14:49
-@desc: 
-"""
 from dataclasses import dataclass, field
 from enum import Enum
 from multiprocessing import Process

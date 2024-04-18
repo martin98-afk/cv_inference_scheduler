@@ -1,11 +1,4 @@
-"""
-@author: mading
-@license: (C) Copyright: LUCULENT Corporation Limited.
-@contact: mading@luculent.net
-@file: start_object_detection_server.py
-@time: 2023/11/3 11:18
-@desc: 
-"""
+
 import asyncio
 import signal
 

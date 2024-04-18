@@ -1,11 +1,4 @@
-"""
-@author: mading
-@license: (C) Copyright: LUCULENT Corporation Limited.
-@contact: mading@luculent.net
-@file: entities.py
-@time: 2023/11/3 11:25
-@desc: 
-"""
+
 from typing import Optional, List
 
 from pydantic import BaseModel

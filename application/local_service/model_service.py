@@ -1,13 +1,3 @@
-"""
-@author: mading
-@license: (C) Copyright: LUCULENT Corporation Limited.
-@contact: mading@luculent.net
-@file: model_service.py
-@time: 2023/11/6 9:57
-@desc: 
-"""
-import os
-
 import onnxruntime as ort
 import uvicorn
 from fastapi import FastAPI

@@ -1,11 +1,4 @@
-"""
-@author: mading
-@license: (C) Copyright: LUCULENT Corporation Limited.
-@contact: mading@luculent.net
-@file: yaml_loader.py
-@time: 2024/4/18 10:12
-@desc: 
-"""
+
 from pathlib import Path
 import re
 import yaml

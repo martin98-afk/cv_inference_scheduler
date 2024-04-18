@@ -1,13 +1,3 @@
-"""
-@author: mading
-@license: (C) Copyright: LUCULENT Corporation Limited.
-@contact: mading@luculent.net
-@file: segmentation.py
-@time: 2024/4/12 14:51
-@desc: 
-"""
-# Ultralytics YOLO 🚀, AGPL-3.0 license
-
 import argparse
 import os
 

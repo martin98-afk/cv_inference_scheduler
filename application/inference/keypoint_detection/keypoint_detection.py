@@ -1,14 +1,4 @@
-"""
-@author: mading
-@license: (C) Copyright: LUCULENT Corporation Limited.
-@contact: mading@luculent.net
-@file: keypoint_detection.py
-@time: 2024/4/15 14:10
-@desc: 
-"""
 import os
-# Ultralytics YOLO 🚀, AGPL-3.0 license
-
 import argparse
 
 import cv2

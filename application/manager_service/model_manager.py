@@ -1,11 +1,3 @@
-"""
-@author: mading
-@license: (C) Copyright: LUCULENT Corporation Limited.
-@contact: mading@luculent.net
-@file: model_manager.py
-@time: 2023/11/3 11:02
-@desc: 
-"""
 import asyncio
 import os
 import signal

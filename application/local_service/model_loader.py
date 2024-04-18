@@ -1,11 +1,3 @@
-"""
-@author: mading
-@license: (C) Copyright: LUCULENT Corporation Limited.
-@contact: mading@luculent.net
-@file: main.py
-@time: 2023/11/3 10:30
-@desc:
-"""
 import onnxruntime as ort
 from loguru import logger
 

@@ -1,23 +1,12 @@
-"""
-@author: mading
-@license: (C) Copyright: LUCULENT Corporation Limited.
-@contact: mading@luculent.net
-@file: __init__.py.py
-@time: 2023/11/3 15:10
-@desc:
-"""
-import json
 import os
 import signal
 import time
 import traceback
 from multiprocessing import Process
-from threading import Thread
-from typing import Optional, Dict, List
-
-from fastapi import FastAPI, Request, HTTPException
+from typing import Optional, Dict
+from fastapi import FastAPI, Request
 from fastapi.middleware.cors import CORSMiddleware
-from fastapi.responses import JSONResponse, StreamingResponse
+from fastapi.responses import JSONResponse
 from loguru import logger
 import httpx
 

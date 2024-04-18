@@ -1,12 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-@author: zhangkeyuan
-@license: (C) Copyright: LUCULENT Corporation Limited.
-@contact: zhangkeyuan@luculent.net
-@file: config.py
-@time: 2023-09-27 10:56:23
-@desc:
-"""
+
 import os
 import time
 from abc import ABCMeta
